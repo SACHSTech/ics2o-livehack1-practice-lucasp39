@@ -18,4 +18,3 @@ Write a program that gets the temperature(celsius) and wind speed (km/h) then co
 ![equation](Tex2Img_1607016221.jpg) where T is temperature and V is windspeed.
 
 For example, when the temperature (in Celsius) is 2 degrees, wind speed is 7 km/h, the wind chill is  -0.08 Degrees Celsius.
-
