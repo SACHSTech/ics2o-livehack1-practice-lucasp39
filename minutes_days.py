@@ -8,6 +8,7 @@ Author: Pei.L
 Created:  05/08/2021
 ------------------------------------------------------------------------------
 """
+print ("****** Minutes to Hours and Days ******")
 
 #find out number of minutes
 minutes = int(input("How many minutes?: "))

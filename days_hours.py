@@ -8,6 +8,7 @@ Author: Pei.L
 Created:  05/08/2021
 ------------------------------------------------------------------------------
 """
+print ("****** Hours To Days ******")
 
 #finding out number of hours
 hours = int(input("How many hours?: "))

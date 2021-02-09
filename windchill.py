@@ -6,8 +6,9 @@ Purpose:  Compute temperature in celsius after factoring windchill
 Author: Pei.L
 
 Created:  05/09/2021
-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 """
+print ("****** Windchill Calculator ******")
 
 #find the temperature in celsius
 temperature = float(input("What is the temperature in celsius?: "))

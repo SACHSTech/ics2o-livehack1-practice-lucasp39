@@ -8,6 +8,7 @@ Author: Pei.L
 Created:  05/08/2021
 ------------------------------------------------------------------------------
 """
+print ("****** Fahrenheit To Celsius Calculator ******")
 
 #finding temperature in fahrenheit
 fahrenheit = float(input("What is the temperature in Fahrenheit?: "))
